@@ -1,0 +1,14 @@
+.App{
+    box-sizing: border-box;
+}
+
+.main-header{
+    display: flex;
+    height: 50px;
+    background: tomato;
+}
+.headerText{
+    padding: 10px;
+    color: white;
+    font-size: larger;
+}
